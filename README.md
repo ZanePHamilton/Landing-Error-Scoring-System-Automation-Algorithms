@@ -1,6 +1,7 @@
 # Automation-of-the-Landing-Error-Scoring-System-using-Inertial-Measurement-Units
 Repository containing the Python code used to process and integrate IMU movement datum with machine learning for automation of Landing Error Scoring System scores.
 The following files are available, with algorithms as specified in the thesis integrated throughout:
+
 cropper.py:                The algorithms as required for detecting threshold values, and cropping the movement window down for processing.
 
 aligner.py:                Direct manipulation of the dataset to align the axes of the sensor to one consistent axis.
