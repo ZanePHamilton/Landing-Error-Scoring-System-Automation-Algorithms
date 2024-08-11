@@ -1,5 +1,8 @@
 # Automation-of-the-Landing-Error-Scoring-System-using-Inertial-Measurement-Units
+![implementation_processPipeline](https://github.com/user-attachments/assets/3421f273-ee6e-489e-8d63-65951c6cc2a4)
+
 Repository containing the Python code used to process and integrate IMU movement datum with machine learning for automation of Landing Error Scoring System scores.
+
 The following files are available, with algorithms as specified in the thesis integrated throughout:
 
 **cropper.py:**                The algorithms as required for detecting threshold values, and cropping the movement window down for processing.
